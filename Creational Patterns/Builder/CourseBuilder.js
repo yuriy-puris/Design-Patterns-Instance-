@@ -7,18 +7,18 @@ class CourseBuilder {
         this.price = price;
     }
 
-    makePaid (price) {
+    makePaid(price) {
         this.isFree = false;
         this.price = price;
         return this;
     }
 
-    makeCampain () {
+    makeCampain() {
         this.isCampain = true;
         return this;
     }
 
-    build () {
+    build() {
         return new Course(this)
     }
 
