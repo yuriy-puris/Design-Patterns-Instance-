@@ -1,0 +1,17 @@
+{
+    "design": [
+        {"name": "Bootstrap", "price": 15},
+        {"name": "Photoshop", "price": 25},
+        {"name": "Sketch", "price": 30}
+    ],
+    "language": [
+        {"name": "JavaScript", "price": 50},
+        {"name": "Python", "price": 70},
+        {"name": "C#", "price": 80}
+    ],
+    "music": [
+        {"name": "FL Studio", "price": 15},
+        {"name": "Adobe audition", "price": 20},
+        {"name": "Become a DJ", "price": 25}
+    ]
+}

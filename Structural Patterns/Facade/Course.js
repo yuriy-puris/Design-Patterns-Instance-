@@ -27,6 +27,7 @@ const CourseServiceFacade = (() => {
     return {
         Completed: complete
     }
+    
 })();
 
 module.exports = { Course, CourseService, CourseServiceFacade };
